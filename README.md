@@ -36,17 +36,24 @@ Technologies Used:
 
 Which-AI-Tool-Is-Right-for-You/
 │
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 ├── assets/
+
 │   └── images/
+
 └── README.md
 
 Language Support
 
 The application supports:
 • English — LTR
+
 •  العربية — RTL
 Users can switch between the two languages while using the application.
 
