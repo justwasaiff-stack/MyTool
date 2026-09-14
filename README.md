@@ -26,12 +26,19 @@ The user answers 14 questions about their needs and intended use of AI tools The
 User Flow:
 
 Landing Page → Assessment → Answer Analysis → Results
+
 Technologies Used:
+
 • HTML5 — Application structure
+
 • CSS3 — Styling and responsive design
+
 • JavaScript — Interaction, navigation, and recommendation logic
+
 • LocalStorage — Saving progress and results
+
 • GitHub — Version control and project hosting
+
 📂 Project Structure
 
 Which-AI-Tool-Is-Right-for-You/
@@ -55,6 +62,7 @@ The application supports:
 • English — LTR
 
 •  العربية — RTL
+
 Users can switch between the two languages while using the application.
 
 Recommendation System:
